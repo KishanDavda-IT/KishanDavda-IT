@@ -48,13 +48,15 @@ focus:    Local LLM infra · CLI tooling · Agentic systems
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KishanDavda-IT&show_icons=true&bg_color=0d1117&border_color=00ffe0&icon_color=7b2fff&title_color=00ffe0&text_color=c9d1d9&hide_border=false&rank_icon=github" height="160"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=KishanDavda-IT&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=00ffe0&icon_color=7b2fff&title_color=00ffe0&text_color=c9d1d9"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KishanDavda-IT&layout=compact&bg_color=0d1117&border_color=00ffe0&title_color=00ffe0&text_color=c9d1d9" height="160"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KishanDavda-IT&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=00ffe0&title_color=00ffe0&text_color=c9d1d9&langs_count=8"/>
 
-<br/>
+</div>
 
-<img src="https://streak-stats.demolab.com?user=KishanDavda-IT&theme=dark&background=0d1117&border=00ffe0&ring=7b2fff&fire=00ffe0&currStreakLabel=00ffe0" />
+<div align="center">
+
+<img src="https://nirzak-streak-stats.vercel.app?user=KishanDavda-IT&theme=tokyonight&background=0D1117&border=00FFE0&ring=7B2FFF&fire=00FFE0&currStreakLabel=00FFE0&sideLabels=C9D1D9&dates=C9D1D9&sideNums=FFFFFF&currStreakNum=FFFFFF" />
 
 </div>
 
